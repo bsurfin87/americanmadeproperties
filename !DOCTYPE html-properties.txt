@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Properties - American Made Properties</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>American Made Properties</h1>
+        <p>Rooted in Santa Cruz, Built for You</p>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="owners.html">Owners</a>
+        <a href="maintenance.html">Maintenance</a>
+        <a href="properties.html">Properties</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+    <main>
+        <h2>Our Properties</h2>
+        <p>Explore our portfolio of properties in Santa Cruz and surrounding areas.</p>
+        <ul>
+            <li>Beachfront Condo - Santa Cruz</li>
+            <li>Family Home - Capitola</li>
+            <li>Commercial Space - Downtown</li>
+        </ul>
+        <p>Contact us for availability and more details.</p>
+    </main>
+    <footer>
+        <p>&copy; 2026 American Made Properties. All rights reserved.</p>
+    </footer>
+</body>
+</html>

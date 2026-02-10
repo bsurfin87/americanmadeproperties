@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Services - American Made Properties</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>American Made Properties</h1>
+        <p>Rooted in Santa Cruz, Built for You</p>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="owners.html">Owners</a>
+        <a href="maintenance.html">Maintenance</a>
+        <a href="properties.html">Properties</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+    <main>
+        <h2>Our Services</h2>
+        <p>We offer a range of property management services including tenant screening, rent collection, maintenance, and more.</p>
+        <ul>
+            <li>Property Management</li>
+            <li>Tenant Placement</li>
+            <li>Maintenance Services</li>
+            <li>Financial Reporting</li>
+        </ul>
+    </main>
+    <footer>

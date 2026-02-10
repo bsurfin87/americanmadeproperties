@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Owners - American Made Properties</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>American Made Properties</h1>
+        <p>Rooted in Santa Cruz, Built for You</p>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="owners.html">Owners</a>
+        <a href="maintenance.html">Maintenance</a>
+        <a href="properties.html">Properties</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+    <main>
+        <h2>For Property Owners</h2>
+        <p>Experience pain-free property management with American Made Properties. We handle everything from tenant relations to financials, so you can relax.</p>
+        <p>Our services ensure your investment is protected and profitable.</p>
+    </main>
+    <footer>
+        <p>&copy; 2026 American Made Properties. All rights reserved.</p>
+    </footer>
+</body>
+</html>

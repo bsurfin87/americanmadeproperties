@@ -1,0 +1,23 @@
+<p>Rooted in Santa Cruz, Built for You</p>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="owners.html">Owners</a>
+        <a href="maintenance.html">Maintenance</a>
+        <a href="properties.html">Properties</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+    <main>
+        <h2>Contact Us</h2>
+        <p>Get in touch with us for any inquiries.</p>
+        <p>Email: info@americanmadeproperties.com</p>
+        <p>Phone: (831) 123-4567</p>
+        <p>Address: 123 Ocean Ave, Santa Cruz, CA 95060</p>
+    </main>
+    <footer>
+        <p>&copy; 2026 American Made Properties. All rights reserved.</p>
+    </footer>
+</body>
+</html>

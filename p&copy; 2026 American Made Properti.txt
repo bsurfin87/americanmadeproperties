@@ -1,0 +1,4 @@
+<p>&copy; 2026 American Made Properties. All rights reserved.</p>
+    </footer>
+</body>
+</html>

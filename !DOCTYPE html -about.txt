@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - American Made Properties</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>American Made Properties</h1>
+        <p>Rooted in Santa Cruz, Built for You</p>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="owners.html">Owners</a>
+        <a href="maintenance.html">Maintenance</a>
+        <a href="properties.html">Properties</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+    <main>
+        <h2>About Us</h2>
+        <p>American Made Properties is a family-owned property management company rooted in the heart of Santa Cruz, California. We specialize in managing residential and commercial properties with a focus on community and quality service.</p>
+        <p>Our team is committed to building lasting relationships and ensuring that every property we manage is built for you.</p>
+    </main>
+    <footer>
+        <p>&copy; 2026 American Made Properties. All rights reserved.</p>
+    </footer>
+</body>
+</html>
